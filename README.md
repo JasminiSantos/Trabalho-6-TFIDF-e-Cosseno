@@ -12,4 +12,4 @@ do cosseno use a fórmula apresentada em Word2Vector (frankalcantara.com)
 (https://frankalcantara.com/Aulas/Nlp/out/Aula4.html#/0/4/2) e apresentada na figura a
 seguir: </p>
 
-<a href="https://colab.research.google.com/drive/1AGuMuK1uoN1yyml7zjk07p31lYkF1nfL?usp=sharing">Link para o projeto</p> 
+<a href="https://colab.research.google.com/drive/1nncTls2dCZ5LZ5sKJNdBJDoqCsWgA9_F?usp=sharing">Link para o projeto</p> 
